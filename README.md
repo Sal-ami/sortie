@@ -1,7 +1,10 @@
 <p align="center">
   <img src="logo/sortie.png" alt="sortie" width="400">
 </p>
-<h1 align="center">Disclaimer This is an ai made project only made to test the ai capabilities i have done a couple changes myself but nothing really major. The project does work but again you might prefer not to use it scince it is ai</h1>
+<br>
+Disclaimer This is an ai made project only made to test the ai models capabilities, I have done a couple changes myself but nothing really major. The project does work but again you might prefer not to use it scince it is ai
+</p>
+                                                                                                                                                                                                                          
 <h1 align="center">sortie</h1>
 
 <p align="center">
